@@ -156,6 +156,35 @@ else {
     echo "<br>";
 }
 
+$language[] = "Go";
+array_push($language, "C", "Ruby", "JavaSkript");
+
+print_r($language);
+echo "<br>";
+
+$language[]=[
+    "C"=>4,
+     "Ruby"=>5,
+     "JavaSkript"=>6
+];
+
+print_r($language)."<br>";
+echo "<br>";
+
+echo $language[7]["C"]."<br>";
+
+$array = [true =>"a", 1=>"b", 1=>"c", 1.8 =>"d"];
+print_r($array);
+echo "<br>";
+$array = ["a" => true, "b" => 1, "c" => 1, "d" => 1.8];
+print_r($array);
+
+echo "<br>";
+?>
+<?php
+
+
+
 
 
 
