@@ -36,3 +36,104 @@ echo "<br>";
 $x = null;
 $y = $x ??  "HelloWorld";
 var_dump($y);
+
+echo "<br>";
+echo "<br>";
+
+
+$x=5;
+$x++;
+echo $x;
+echo "<br>";
+$x--;
+echo $x++;
+echo "<br>";
+echo ++$x;
+echo "<br>";
+
+$x = null;
+echo --$x;
+echo "<br>";
+echo ++$x;
+echo "<br>";
+
+
+$x = false;
+$y = "десять";
+
+if ($x === false && $y === "десять") {
+echo "Good";
+    echo "<br>";
+}
+
+$a = true and false;
+$b = true && false;
+
+var_dump($a);
+echo "<br>";
+var_dump($b);
+echo "<br>";
+
+$a = false or true;
+$b = false || true;
+
+var_dump($a);
+echo "<br>";
+var_dump($b);
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+
+$x = true;
+$y = false;
+function hello()
+{
+echo "Hello";
+return false;
+}
+var_dump($x || hello());
+echo "<br>";
+echo "<br>";
+$x = false;
+$y = false;
+function hello1()
+{
+    echo "Hello";
+    return false;
+}
+var_dump($x || hello1());
+echo "<br>";
+echo "<br>";
+$x = true;
+$y = false;
+function hello2()
+{
+    echo "Hello";
+    return false;
+}
+var_dump($x && hello2());
+echo "<br>";
+echo "<br>";
+$x = false;
+$y = false;
+function hello3()
+{
+    echo "Hello";
+    return false;
+}
+var_dump($x && hello3());
+echo "<br>";
+echo "<br>";
+$x = false;
+$y = false;
+function hello4()
+{
+    echo "Hello";
+    return false;
+}
+var_dump($x && hello4()||true);
+echo "<br>";
+echo "<br>";

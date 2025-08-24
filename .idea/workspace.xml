@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bd9b3d0-acf1-4ec8-b0a5-04da09c2a05e" name="Changes" comment="21.08">
-      <change afterPath="$PROJECT_DIR$/21.08/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.08/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/21.08/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DaniiSkakun"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DaniiSkakun&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DaniiSkakun/PHP_EDUCATION.git",
-    "accountId": "a6d87a88-8653-4431-b1ee-2d73f51711aa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DaniiSkakun/PHP_EDUCATION.git&quot;,
+    &quot;accountId&quot;: &quot;a6d87a88-8653-4431-b1ee-2d73f51711aa&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -96,7 +96,9 @@
       <workItem from="1755695235268" duration="2130000" />
       <workItem from="1755697905075" duration="400000" />
       <workItem from="1755698318954" duration="5767000" />
-      <workItem from="1755783193587" duration="6893000" />
+      <workItem from="1755783193587" duration="6912000" />
+      <workItem from="1755953868098" duration="9494000" />
+      <workItem from="1756039337544" duration="1221000" />
     </task>
     <task id="LOCAL-00001" summary="21.08">
       <option name="closed" value="true" />
@@ -106,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755783304186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="21.08">
+      <option name="closed" value="true" />
+      <created>1755795031988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755795031988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
